@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartBilling POS",
+  "description": "A high-performance product billing and checkout system with integrated barcode scanning and multi-step payment workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
